@@ -1,7 +1,0 @@
-name = "screener-sync-worker"
-main = "src/index.js"
-compatibility_date = "2026-07-14"
-
-[[kv_namespaces]]
-binding = "SYNC_KV"
-id = "cff5f0bdf99c459ea73ad05acfdf7c8a"
